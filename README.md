@@ -27,7 +27,7 @@ This project was undertaken as part of the Introduction to Data Analytics course
 
 ## Data Source
 
-We utilized a dataset from various hospitals across the U.S. for our analysis. Due to privacy concerns and ethical reasons, this dataset is not available for public access in this repository.
+We utilized a dataset from various hospitals across the U.S. for our analysis. The original dataset can be found at https://data.mendeley.com/datasets/nntck7ddgt/2
 
 ## Feedback and Contributions
 
